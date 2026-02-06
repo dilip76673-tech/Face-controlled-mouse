@@ -28,9 +28,22 @@ The project demonstrates practical use of **MediaPipe**, **OpenCV**, and **PyAut
 ## 🛠️ Technologies Used
 - Python  
 - OpenCV  
-- MediaPipe  
+- MediaPipe
+
+face-controlled-mouse/ │── main.py              # Main execution file │── README.md
+
+🚀 Features
+Real-time eye tracking
+Hands-free mouse control
+Lightweight and fast
+Useful for accessibility applications
+
+👨‍💻 Author
+Dilip kumar
+B.Tech CSE Student
 - PyAutoGUI  
 
 ---
 
 ## 📂 Project Structure
+
